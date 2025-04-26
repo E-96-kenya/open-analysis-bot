@@ -1,0 +1,5 @@
+mkdir open-analysis-tool
+cd open-analysis-tool
+git init
+git remote add origin https://github.com/E-96-kenya/open-analysis-bot.git
+git pull origin main
